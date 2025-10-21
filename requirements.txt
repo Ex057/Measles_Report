@@ -1,0 +1,9 @@
+streamlit==1.49.1
+pandas==2.3.2
+plotly==6.3.0
+sqlalchemy==2.0.43
+psycopg2-binary==2.9.10
+python-dotenv==1.1.1
+geopandas==1.1.1
+folium==0.20.0
+streamlit-folium==0.25.1
